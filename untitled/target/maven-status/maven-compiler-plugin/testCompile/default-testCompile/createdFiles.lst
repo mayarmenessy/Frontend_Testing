@@ -1,0 +1,6 @@
+org\example\stepdef\D02_loginStepDef.class
+org\example\stepdef\D01_RedstepDef.class
+org\example\pages\P02_login.class
+org\example\stepdef\Hooks.class
+org\example\pages\P01_register.class
+org\example\testRunner\runners.class
